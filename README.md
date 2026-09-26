@@ -200,10 +200,8 @@ END
 ```
 
 #### Output Table
+<img width="485" height="200" alt="image" src="https://github.com/user-attachments/assets/af80cde8-fe8d-48ea-95bc-a3495a047f61" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
 #### Manual Calculations
 
