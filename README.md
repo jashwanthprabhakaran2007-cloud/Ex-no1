@@ -109,10 +109,8 @@ END
 
 
 #### Output Table
+<img width="637" height="200" alt="image" src="https://github.com/user-attachments/assets/fdf31393-ad75-42e7-b9d7-12fbb61eb3e9" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
 #### Manual Calculations
 
